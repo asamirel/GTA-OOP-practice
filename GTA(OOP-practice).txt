@@ -1,3 +1,8 @@
+This is just my thoughts for the GTA Classes :
+
+hint : ofcourse it is not that large, as i need just to make sure of myself with OOP.
+- The idea is from me, not an assignement, project from internet. i love real GTA Game :D
+
 - Demo Class (Main) : for testing
 - People Class (Random people walking in the street or in a mission for ex.) : 
 	--> name,  health, money.
