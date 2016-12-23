@@ -32,3 +32,6 @@ Functions :
 	- Repair
 - Weapon Class :
 	- setters, getters	
+
+Hint : The project may contain errors or something you see could done better, feel free to mail me : ahmedsamir23794@gmail.com
+also, feel free to play with it and learn :).
